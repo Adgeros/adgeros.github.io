@@ -1,1 +1,2 @@
-# Adgeros.github.io
+# adgeros.github.io
+blog

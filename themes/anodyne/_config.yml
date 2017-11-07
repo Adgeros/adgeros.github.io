@@ -1,0 +1,53 @@
+# Logo
+logo_image_source: http://www.codeblocq.com/assets/projects/hexo-theme-anodyne/assets/anodyne.svg
+
+# Index Page
+index_banner_text: 欢迎来到Adger的博客
+index_banner_text_secondary: 祖国庇护下的一个多功能前端
+index_font_awesome_icon_css: fa fa-magic
+
+# Header
+menu:
+  首页: /
+  列表: /archives
+  关于: /about
+  联系: /contact
+
+# Post
+default_post_title: Untitled
+default_post_icon: fa-file-text-o
+
+# Archive Date Format
+archive_date_format: YYYY-MM-DD
+archive_font_awesome_icon_css: fa-folder-open
+
+# About Widget
+about_widget_avatar_url: http://tachyons.io/img/avatar_1.jpg
+about_widget_text: "一个祖国庇护下的多功能前端，爱祖国、爱学习、爱人民，颇有艺术家的影子"
+
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname: 
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Media Platforms
+social_platforms:
+  - url: https://twitter.com/
+    fa_icon: fa-twitter
+  - url: https://www.facebook.com/
+    fa_icon: fa-facebook
+  - url: https://github.com/Adgeros
+    fa_icon: fa-github
+  - url: https://plus.google.com/
+    fa_icon: fa-google-plus
+  - url: mailto:imui-vip@hotmail.com
+    fa_icon: fa-envelope
+  - url: /#
+    fa_icon: fa-rss
+
+# Footer about
+footer_about: "@Untitled. All right reserved | Design & Hexo <a class=\"link dim white\" href=\"http://www.adger.me/\">Adger</a>"
