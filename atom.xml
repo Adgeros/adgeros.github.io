@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>青柳居士</title>
+  <subtitle>共产主义接班人</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.adger.me/"/>
+  <updated>2017-12-29T09:33:03.000Z</updated>
+  <id>http://www.adger.me/</id>
+  
+  <author>
+    <name>Adger</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vue2移动端单页脚手架</title>
+    <link href="http://www.adger.me/2017/12/29/vue2%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%8D%95%E9%A1%B5%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    <id>http://www.adger.me/2017/12/29/vue2移动端单页脚手架/</id>
+    <published>2017-12-29T08:46:31.000Z</published>
+    <updated>2017-12-29T09:33:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="adger-vue-scaffold"><a href="#adger-vue-scaffold" class="headerlink" title="adger-vue-scaffold"></a>adger-vue-scaffold</h3><blockquote>
+<p>基于vue-cli改造的脚手架，添加flexable，添加首页tab<br><a href="https://github.com/Adgeros/adger-vue-scaffold" target="_blank" rel="external">github</a></p>
+</blockquote>
+<h3 id="Build-Setup"><a href="#Build-Setup" class="headerlink" title="Build Setup"></a>Build Setup</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># install dependencies</span></div><div class="line">npm install</div><div class="line"></div><div class="line"><span class="comment"># serve with hot reload at localhost:8080</span></div><div class="line">npm run dev</div><div class="line"></div><div class="line"><span class="comment"># build for production with minification</span></div><div class="line">npm run build</div><div class="line"></div><div class="line"><span class="comment"># build for production and view the bundle analyzer report</span></div><div class="line">npm run build --report</div><div class="line"></div><div class="line"><span class="comment"># run unit tests</span></div><div class="line">npm run unit</div><div class="line"></div><div class="line"><span class="comment"># run e2e tests</span></div><div class="line">npm run e2e</div><div class="line"></div><div class="line"><span class="comment"># run all tests</span></div><div class="line">npm <span class="built_in">test</span></div></pre></td></tr></table></figure>
+<p>For a detailed explanation on how things work, check out the <a href="http://vuejs-templates.github.io/webpack/" target="_blank" rel="external">guide</a> and <a href="http://vuejs.github.io/vue-loader" target="_blank" rel="external">docs for vue-loader</a>.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      基于vue-cli改造的脚手架，添加flexable，添加首页tab
+    
+    </summary>
+    
+    
+      <category term="vue" scheme="http://www.adger.me/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>特殊的5天</title>
+    <link href="http://www.adger.me/2017/08/22/%E7%89%B9%E6%AE%8A%E7%9A%845%E5%A4%A9/"/>
+    <id>http://www.adger.me/2017/08/22/特殊的5天/</id>
+    <published>2017-08-22T03:46:07.000Z</published>
+    <updated>2017-08-25T10:04:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>你走已经第三天，但是仿佛并没有走远</p>
+]]></content>
+    
+    <summary type="html">
+    
+      忍别离，不忍却又别离，托鸿雁南去，不知此心何寄
+    
+    </summary>
+    
+    
+      <category term="旅游" scheme="http://www.adger.me/tags/%E6%97%85%E6%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GIT协同开发</title>
+    <link href="http://www.adger.me/2017/08/20/GIT%E5%8D%8F%E5%90%8C%E5%BC%80%E5%8F%91/"/>
+    <id>http://www.adger.me/2017/08/20/GIT协同开发/</id>
+    <published>2017-08-20T03:46:07.000Z</published>
+    <updated>2017-08-22T03:55:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="用了一段时间github-一直想用时间来对git的使用来做一段笔记，前段时间比较忙，现在沉下心来学习也是极好的。"><a href="#用了一段时间github-一直想用时间来对git的使用来做一段笔记，前段时间比较忙，现在沉下心来学习也是极好的。" class="headerlink" title="用了一段时间github,一直想用时间来对git的使用来做一段笔记，前段时间比较忙，现在沉下心来学习也是极好的。"></a>用了一段时间github,一直想用时间来对git的使用来做一段笔记，前段时间比较忙，现在沉下心来学习也是极好的。</h5><p>很多项目开发会采用git这一优秀的分布式版本管理工具来进行项目版本管理。因为git的使用非常灵活，所以在实际操作中会有许多不同的工作流程。不同团队对于不同项目会有不同的协作方式。掌握git版本管理开发，对以后的学习和开发都有很多好处。</p>
+<h5 id="首先基本名词要懂："><a href="#首先基本名词要懂：" class="headerlink" title="首先基本名词要懂："></a>首先基本名词要懂：</h5><blockquote>
+<p>仓库（Repository）、分支（branch）、工作流（workflow）</p>
+</blockquote>
+<h5 id="仓库（Repository）"><a href="#仓库（Repository）" class="headerlink" title="仓库（Repository）"></a>仓库（Repository）</h5><p>在项目的开始到结束，我们会有两种仓库，一种是源仓库（origin），一种是开发者仓库。</p>
+<h6 id="源仓库（origin）的有两个作用："><a href="#源仓库（origin）的有两个作用：" class="headerlink" title="源仓库（origin）的有两个作用："></a>源仓库（origin）的有两个作用：</h6><ul>
+<li>汇总参与该项目的各个开发者的代码</li>
+<li>存放趋于稳定和可发布的代码</li>
+</ul>
+<blockquote>
+<p>源仓库应该是受保护的，开发者不应该直接对其进行开发工作。只有项目管理者（通常是项目发起人）能对其进行较高权限的操作。</p>
+</blockquote>
+<h6 id="开发者仓库："><a href="#开发者仓库：" class="headerlink" title="开发者仓库："></a>开发者仓库：</h6><blockquote>
+<p>任何开发者都不会对源仓库进行直接的操作，源仓库建立以后，每个开发者需要做的事情就是把源仓库的“复制”一份，作为自己日常开发的仓库。这个复制，也就是github上面的fork。</p>
+<p>每个开发者所fork的仓库是完全独立的，互不干扰，甚至与源仓库都无关。  每个开发者仓库相当于一个源仓库实体的影像，  开发者在这个影像中进行编码， 提交到自己的仓库中，这样就可以轻易地实现团队成员之间的并行开发工作。  而开发工作完成以后,   开发者可以向源仓库发送pull request，请求管理员把自己的代码合并到源仓库中，这样就实现了分布式开发工作，和最后的集中式的管理。</p>
+</blockquote>
+<h5 id="分支（branch）"><a href="#分支（branch）" class="headerlink" title="分支（branch）"></a>分支（branch）</h5><p>在git中，分支操作则是每个开发人员日常工作流。利用git的分支，可以非常方便地进行开发和测试。</p>
+<p>我们为git定下一种分支模型，在这种模型中，分支有两类，五种：</p>
+<h6 id="永久性分支"><a href="#永久性分支" class="headerlink" title="永久性分支"></a>永久性分支</h6><ul>
+<li><p>master branch：主分支</p>
+</li>
+<li><p>develop branch：开发分支</p>
+</li>
+</ul>
+<h6 id="临时性分支"><a href="#临时性分支" class="headerlink" title="临时性分支"></a>临时性分支</h6><ul>
+<li><p>feature branch：功能分支</p>
+</li>
+<li><p>release branch：预发布分支</p>
+</li>
+<li><p>hotfix branch：bug修复分支</p>
+</li>
+</ul>
+<blockquote>
+<p>master：主分支从项目一开始便存在，它用于存放经过测试，已经完全稳定代码；在项目开发以后的任何时刻当中，master存放的代码应该是可作为产品供用户使用的代码。每一次master更新的时候都应该用git打上tag，说明你的产品有新版本发布了。</p>
+<p>develop：开发分支，一开始从master分支中分离出来，用于开发者存放基本稳定代码。开发者把功能做好以后，是存放到自己的develop中，当测试完以后，可以向管理者发起一个pull request，请求把自己仓库的develop分支合并到源仓库的develop中。</p>
+<p>归纳：所有开发者开发好的功能会在源仓库的develop分支中进行汇总，当develop中的代码经过不断的测试，已经逐渐趋于稳定了，接近产品目标了。这时候，我们就可以把develop分支合并到master分支中，发布一个新版本。</p>
+<p>feature：功能性分支，是用于开发项目的功能的分支，是开发者主要战斗阵地。开发者在本地仓库从develop分支分出功能分支，在该分支上进行功能的开发，开发完成以后再合并到develop分支上，这时候功能性分支已经完成任务，可以删除。功能性分支的命名一般为feature-<em>，</em>为需要开发的功能的名称。</p>
+<p>release：预发布分支，当产品即将发布的时候，要进行最后的调整和测试，这时候就可以分出一个预发布分支，进行最后的bug fix。测试完全以后，发布新版本，就可以把预发布分支删除。预发布分支一般命名为release-*。</p>
+<p>hotfix：修复bug分支，当产品已经发布了，突然出现了重大的bug。这时候就要新建一个hotfix分支，继续紧急的bug修复工作，当bug修复完以后，把该分支合并到master和develop以后，就可以把该分支删除。修复bug分支命名一般为hotfix-*。</p>
+<p>示范：举一个例子，A正在做一个团队项目，已经把源仓库fork了，并且clone到了本地。现在要开发网站的某个功能。A在本地仓库中可以这样做：</p>
+</blockquote>
+<h5 id="切换到develop分支-："><a href="#切换到develop分支-：" class="headerlink" title="切换到develop分支 ："></a>切换到develop分支 ：<figure class="highlight plain"><figcaption><span>checkout develop```</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">##### 分出一个功能性分支： ```git checkout -b feature-discuss</div></pre></td></tr></table></figure></h5><p>在功能性分支上进行开发工作，多次commit，测试以后…</p>
+<h5 id="把做好的功能合并到develop中："><a href="#把做好的功能合并到develop中：" class="headerlink" title="把做好的功能合并到develop中："></a>把做好的功能合并到develop中：</h5><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">git checkout develop    # 回到develop分支    </div><div class="line"></div><div class="line">git merge--no-ff feature-discuss# 把做好的功能合并到develop中    </div><div class="line"></div><div class="line">git branch -d feature-discuss    # 删除功能性分支    </div><div class="line"></div><div class="line">git push origin develop    # 把develop提交到自己的远程仓库中</div></pre></td></tr></table></figure>
+<h5 id="工作流（workflow）"><a href="#工作流（workflow）" class="headerlink" title="工作流（workflow）"></a>工作流（workflow）</h5><ul>
+<li><p>源仓库的构建，创建一个项目，初始化了两个永久性分支master和develop.</p>
+</li>
+<li><p>开发者fork源仓库</p>
+</li>
+<li><p>把自己开发者仓库clone到本地，命令：git clone</p>
+</li>
+<li><p>构建功能分支进行开发，完成后合并到自己的develop分支。</p>
+</li>
+</ul>
+<h5 id="进入仓库中，按照前面说所的构建功能分支的步骤，构建功能分支进行开发、合并，假设我现在要开发一个“讨论”功能："><a href="#进入仓库中，按照前面说所的构建功能分支的步骤，构建功能分支进行开发、合并，假设我现在要开发一个“讨论”功能：" class="headerlink" title="进入仓库中，按照前面说所的构建功能分支的步骤，构建功能分支进行开发、合并，假设我现在要开发一个“讨论”功能："></a>进入仓库中，按照前面说所的构建功能分支的步骤，构建功能分支进行开发、合并，假设我现在要开发一个“讨论”功能：</h5><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line">git checkout develop    # 切换到`develop`分支   </div><div class="line"></div><div class="line"> git checkout -b feature-discuss    # 分出一个功能性分支    </div><div class="line"></div><div class="line">touch discuss.js    # 假装discuss.js就是我们要开发的功能    </div><div class="line"></div><div class="line">git add .    </div><div class="line"></div><div class="line">git commit -m &apos;finish discuss feature&apos;# 提交更改    </div><div class="line"></div><div class="line">git checkout develop    # 回到develop分支    </div><div class="line"></div><div class="line">git merge--no-ff feature-discuss# 把做好的功能合并到develop中    </div><div class="line"></div><div class="line">git branch -d feature-discuss    # 删除功能性分支    </div><div class="line"></div><div class="line">git push origin develop    # 把develop提交到自己的远程仓库中</div></pre></td></tr></table></figure>
+<ul>
+<li>向管理员提交pull request。经过测试以后，觉得没问题，就可以请求管理员把自己仓库的develop分支合并到源仓库的develop分支中，这就是传说中的pull request。</li>
+</ul>
+<h5 id="管理员测试、合并"><a href="#管理员测试、合并" class="headerlink" title="管理员测试、合并"></a>管理员测试、合并</h5><p>对代码进行review，github提供非常强大的代码review功能</p>
+<p>在本地测试新建一个测试分支，测试pull request的代码<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">git checkout develop    # 进入本地的develop分支    </div><div class="line"></div><div class="line">git checkout -b livoras-develop</div></pre></td></tr></table></figure></p>
+<h5 id="从develop分支中分出一个叫livoras-develop的测试分支测试pull-request代码"><a href="#从develop分支中分出一个叫livoras-develop的测试分支测试pull-request代码" class="headerlink" title="从develop分支中分出一个叫livoras-develop的测试分支测试pull request代码"></a>从develop分支中分出一个叫livoras-develop的测试分支测试pull request代码</h5><p>git pull <a href="https://github.com/livoras/git-demo.git" target="_blank" rel="external">https://github.com/livoras/git-demo.git</a> develop    </p>
+<h5 id="把pull-request的代码pull到测试分支中，进行测试"><a href="#把pull-request的代码pull到测试分支中，进行测试" class="headerlink" title="把pull request的代码pull到测试分支中，进行测试"></a>把pull request的代码pull到测试分支中，进行测试</h5><h5 id="判断是否同意合并到源仓库的develop中，如果经过测试没问题，可以把我的代码合并到源仓库的develop中："><a href="#判断是否同意合并到源仓库的develop中，如果经过测试没问题，可以把我的代码合并到源仓库的develop中：" class="headerlink" title="判断是否同意合并到源仓库的develop中，如果经过测试没问题，可以把我的代码合并到源仓库的develop中："></a>判断是否同意合并到源仓库的develop中，如果经过测试没问题，可以把我的代码合并到源仓库的develop中：</h5><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">git checkout develop    </div><div class="line"></div><div class="line">git merge--no-ff livoras-develop    </div><div class="line"></div><div class="line">git push origin develop</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      用了一段时间github,一直想用时间来对git的使用来做一段笔记，前段时间比较忙，现在沉下心来学习也是极好的。
+    
+    </summary>
+    
+    
+      <category term="github" scheme="http://www.adger.me/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS7安装和配置vsftpd</title>
+    <link href="http://www.adger.me/2017/07/22/CentOS7%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AEvsftpd/"/>
+    <id>http://www.adger.me/2017/07/22/CentOS7安装和配置vsftpd/</id>
+    <published>2017-07-22T03:46:07.000Z</published>
+    <updated>2017-08-22T03:59:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="安装vsftpd"><a href="#安装vsftpd" class="headerlink" title="安装vsftpd"></a>安装vsftpd</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#安装vsftpd</span></div><div class="line">$ yum install -y vsftpd</div><div class="line"><span class="comment">#设置开机启动</span></div><div class="line">$ systemctl <span class="built_in">enable</span> vsftpd.service </div><div class="line"><span class="comment"># 重启</span></div><div class="line">$ service vsftpd restart</div><div class="line"><span class="comment"># 查看vsftpd服务的状态</span></div><div class="line">$ systemctl status vsftpd.service</div></pre></td></tr></table></figure>
+<h3 id="配置vsftpd-conf"><a href="#配置vsftpd-conf" class="headerlink" title="配置vsftpd.conf"></a>配置vsftpd.conf</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#备份配置文件 </span></div><div class="line">$ cp /etc/vsftpd/vsftpd.conf /etc/vsftpd/vsftpd.conf.bak</div><div class="line"></div><div class="line"><span class="comment">#执行以下命令</span></div><div class="line">$ sed -i <span class="string">"s/anonymous_enable=YES/anonymous_enable=NO/g"</span> <span class="string">'/etc/vsftpd/vsftpd.conf'</span></div><div class="line"></div><div class="line">$ sed -i <span class="string">"s/#anon_upload_enable=YES/anon_upload_enable=NO/g"</span> <span class="string">'/etc/vsftpd/vsftpd.conf'</span></div><div class="line"></div><div class="line">$ sed -i <span class="string">"s/#anon_mkdir_write_enable=YES/anon_mkdir_write_enable=YES/g"</span> <span class="string">'/etc/vsftpd/vsftpd.conf'</span></div><div class="line"></div><div class="line">$ sed -i <span class="string">"s/#chown_uploads=YES/chown_uploads=NO/g"</span> <span class="string">'/etc/vsftpd/vsftpd.conf'</span></div><div class="line"></div><div class="line">$ sed -i <span class="string">"s/#async_abor_enable=YES/async_abor_enable=YES/g"</span> <span class="string">'/etc/vsftpd/vsftpd.conf'</span></div><div class="line"></div><div class="line">$ sed -i <span class="string">"s/#ascii_upload_enable=YES/ascii_upload_enable=YES/g"</span> <span class="string">'/etc/vsftpd/vsftpd.conf'</span></div><div class="line"></div><div class="line">$ sed -i <span class="string">"s/#ascii_download_enable=YES/ascii_download_enable=YES/g"</span> <span class="string">'/etc/vsftpd/vsftpd.conf'</span></div><div class="line"></div><div class="line">$ sed -i <span class="string">"s/#ftpd_banner=Welcome to blah FTP service./ftpd_banner=Welcome to FTP service./g"</span> <span class="string">'/etc/vsftpd/vsftpd.conf'</span></div><div class="line"></div><div class="line"><span class="comment">#添加下列内容到vsftpd.conf末尾（原本有几个配置的最下面）</span></div><div class="line">use_localtime=YES</div><div class="line">listen_port=21</div><div class="line">chroot_local_user=YES</div><div class="line">idle_session_timeout=300</div><div class="line">guest_enable=YES</div><div class="line">guest_username=vsftpd</div><div class="line">user_config_dir=/etc/vsftpd/vconf</div><div class="line">data_connection_timeout=1</div><div class="line">virtual_use_local_privs=YES</div><div class="line">pasv_min_port=10060</div><div class="line">pasv_max_port=10090</div><div class="line">accept_timeout=5</div><div class="line">connect_timeout=1</div></pre></td></tr></table></figure>
+<h3 id="建立用户文件"><a href="#建立用户文件" class="headerlink" title="建立用户文件"></a>建立用户文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#第一行用户名，第二行密码，不能使用root为用户名</span></div><div class="line">$ vi /etc/vsftpd/virtusers</div><div class="line">adger</div><div class="line">123456</div></pre></td></tr></table></figure>
+<h3 id="生成用户数据文件"><a href="#生成用户数据文件" class="headerlink" title="生成用户数据文件"></a>生成用户数据文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">$ db_load -T -t <span class="built_in">hash</span> -f /etc/vsftpd/virtusers /etc/vsftpd/virtusers.db</div><div class="line"><span class="comment">#设定PAM验证文件，并指定对虚拟用户数据库文件进行读取</span></div><div class="line">$ chmod 600 /etc/vsftpd/virtusers.db</div></pre></td></tr></table></figure>
+<h3 id="修改-etc-pam-d-vsftpd文件"><a href="#修改-etc-pam-d-vsftpd文件" class="headerlink" title="修改/etc/pam.d/vsftpd文件"></a>修改/etc/pam.d/vsftpd文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># 修改前先备份 </span></div><div class="line"></div><div class="line">$ cp /etc/pam.d/vsftpd /etc/pam.d/vsftpd.bak</div><div class="line"></div><div class="line"><span class="comment"># 将auth及account的所有配置行均注释掉</span></div><div class="line">$ vi /etc/pam.d/vsftpd</div><div class="line"></div><div class="line">auth sufficient /lib64/security/pam_userdb.so db=/etc/vsftpd/virtusers</div><div class="line"></div><div class="line">account sufficient /lib64/security/pam_userdb.so db=/etc/vsftpd/virtusers</div><div class="line"></div><div class="line"><span class="comment"># 如果系统为32位，上面改为lib</span></div></pre></td></tr></table></figure>
+<h3 id="新建系统用户vsftpd，用户目录为-home-vsftpd"><a href="#新建系统用户vsftpd，用户目录为-home-vsftpd" class="headerlink" title="新建系统用户vsftpd，用户目录为/home/vsftpd"></a>新建系统用户vsftpd，用户目录为/home/vsftpd</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#用户登录终端设为/bin/false(即：使之不能登录系统)</span></div><div class="line">$ useradd vsftpd -d /home/vsftpd -s /bin/<span class="literal">false</span></div><div class="line">$ chown -R vsftpd:vsftpd /home/vsftpd</div></pre></td></tr></table></figure>
+<h3 id="建立虚拟用户个人配置文件"><a href="#建立虚拟用户个人配置文件" class="headerlink" title="建立虚拟用户个人配置文件"></a>建立虚拟用户个人配置文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div></pre></td><td class="code"><pre><div class="line">$ mkdir /etc/vsftpd/vconf</div><div class="line">$ <span class="built_in">cd</span> /etc/vsftpd/vconf</div><div class="line"></div><div class="line"><span class="comment">#这里建立两个虚拟用户配合文件</span></div><div class="line">$ touch adger</div><div class="line"></div><div class="line"><span class="comment">#建立用户根目录</span></div><div class="line">$ mkdir -p /home/vsftpd/adger/</div><div class="line"></div><div class="line"><span class="comment">#编辑chris用户配置文件，内容如下，其他用户类似</span></div><div class="line">$ vi adger</div><div class="line"></div><div class="line"><span class="comment"># adger目录不允许可写，不然无法连接ftp</span></div><div class="line">local_root=/home/vsftpd/adger/</div><div class="line">write_enable=YES</div><div class="line">anon_world_readable_only=NO</div><div class="line">anon_upload_enable=YES</div><div class="line">anon_mkdir_write_enable=YES</div><div class="line">anon_other_write_enable=YES</div></pre></td></tr></table></figure>
+<h3 id="设置目录权限"><a href="#设置目录权限" class="headerlink" title="设置目录权限"></a>设置目录权限</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># chroot_local_user 属性以后,必须保证ftp根目录不可写,这样对于ftp根直接为网站根目录的用户不方便,所以建议假如ftp根目录是/home/$&#123;adger&#125;,则将访问权限改写如下</span></div><div class="line">$ chmod a-w /home/adger</div><div class="line"><span class="comment"># 新建上传文件夹</span></div><div class="line">$ mkdir /home/vsftpd/adger/resource</div><div class="line">$ chmod -R 777 /home/vsftpd/adger/resource</div></pre></td></tr></table></figure>
+<h3 id="防火墙设置"><a href="#防火墙设置" class="headerlink" title="防火墙设置"></a>防火墙设置</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">$ vi /etc/sysconfig/iptables</div><div class="line"><span class="comment">#编辑iptables文件，添加如下内容，开启21端口</span></div><div class="line">-A INPUT -m state --state NEW -m tcp -p tcp --dport 21 -j ACCEPT</div></pre></td></tr></table></figure>
+<h3 id="重启vsftpd服务器"><a href="#重启vsftpd服务器" class="headerlink" title="重启vsftpd服务器"></a>重启vsftpd服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ service vsftpd restart</div></pre></td></tr></table></figure>
+<h3 id="客户端连接"><a href="#客户端连接" class="headerlink" title="客户端连接"></a>客户端连接</h3>]]></content>
+    
+    <summary type="html">
+    
+      本文是环境是阿里云CentOS7.2 64位下进行的，全部命令行搞定
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://www.adger.me/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
